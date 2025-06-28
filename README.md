@@ -1,2 +1,2 @@
 # some-script-used
-Idk
+Rblx script
